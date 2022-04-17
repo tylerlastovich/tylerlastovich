@@ -1,4 +1,5 @@
-## There are many things left to make in this world. I like to think about new concepts for making life easier and more rewarding. Here is a running list of ideas. If you have made things like this, or plan to get in touch: [Email me](mailto:tyler@lastovich.me) or [DM on Twitter](https://twitter.com/tylerlastovich)
+### There are many things left to make in this world. I like to think about new concepts for making life easier and more rewarding. Here is a running list of ideas. If you have made things like this, or plan to get in touch: 
+## [Email me](mailto:tyler@lastovich.me) or [DM on Twitter](https://twitter.com/tylerlastovich)
 
 ---
 # Products
@@ -32,6 +33,7 @@
     - Place for harsh critical feedback (could be a stand-alone idea)
     - Higher signal to noise
 
+&nbsp;
 
 # Concepts
 
