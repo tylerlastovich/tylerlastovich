@@ -31,14 +31,23 @@
 12. ### Marketplace for startups to share marketing exposure or sponsorships
 13. ### Strongly curated Product Hunt with focus on product development and feedback
     - Place for harsh critical feedback (could be a stand-alone idea)
+    - Interview style where founder narrative has prominence (likely templated)
+    - Exhaust data offered for sale
     - Higher signal to noise
+14. ### YC for 'tenthicorns'. Align incentives for creating many $50-$100m liquidity events without the failure rate of seeking home runs
+    - Have batches that share equity amongst each other
+    - Optimize for profitability *and* growth (in that order)
+    - Optimize for exits in ~5yrs vs 10-12yrs for VC
+16. ### Financial information site that breaks down inflows and outflows visually 
+17. ### Easy / universal way to accept critical feedback on products and websites
 
 &nbsp;
 
 # Concepts
 
 1. #### I strongly support any new system that removes hidden assumptions people make
-2. #### New systems to assess and reset drug tolerance/dependance
-3. #### Next generation stimulants and euphorics
-4. #### Methods to produce detailed mapping of autobiographical, spatial, and emotional memory
-5. #### Anything that lets customers become stakeholders (not affiliates) in products they use/promote
+2. #### New styles of education and gap years that let young people try many different lifestyles
+3. #### New systems to assess and reset drug tolerance/dependance
+4. #### Next generation stimulants and euphorics
+5. #### Methods to produce detailed mapping of autobiographical, spatial, and emotional memory
+6. #### Anything that lets customers become stakeholders (not affiliates) in products they use/promote
