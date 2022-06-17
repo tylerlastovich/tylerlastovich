@@ -4,13 +4,13 @@
 ---
 # Products
 
-1. ### System to make pitch decks and investor updates based on git repos + python notebooks
+1. ### System to make pitch decks and investor updates based on git repos + python/js notebooks
     - PDFs and slides only convey low-fidelity, outdated information.   
 2. ### Shared, continuously playbooks that stand-up niche startups.
     - Design, data structures, app frameworks, payments, legal, social, content management
     - Increase early focus on what matters
 3.  ### Systems to generate large-scale general intelligence datasets
-4.  ### Tools to help founders raise the ‘correct’ amount of capital relative to exit potentials
+4.  ### Tools to help founders calculate the ‘correct’ amount of capital they should rasie relative to exit potential and timeframe
 5.  ### fMRI brain image reconstruction.
     - Train multi-modal AI to 'hallucinate' images from brain data []()
     - Work to advance legal issues this will create
