@@ -1,17 +1,10 @@
 ### Main works
-# Konjor AI
-- Simplifying the use of pre-trained ML models for everyday tasks. Fun & approachable AI tools that need no explanation.
-- Venture scale company with a deep product roadmap.
-- My full-time role
-- [Join the Discord!](https://discord.gg/4tAgPUJmBk)
-
-## Paths Bio
-- Characterizing biological cognitive diversity. Systems to assess, communicate, and improve what happens inside our heads. Specialization in episodic memory and visualization.
-- [Website](https://Paths.bio)
-
-## Invest Like the Rest
-- A rendering engine for financial information. Aligned to time savings through curation and clear messaging.
-- [Discord](https://discord.gg/aHDTKG7chU)
+# (upcoming applied neuroscience company)
+- Demystifying thought and memory. 
+- Applied neuroscience tools to collect, characterize, share, and build with cognitive capability data.
+- Understanding how both man and machine can think.
+- Tools to help humans take advantage of AI
+- After many iterations this is finally happening, more in '23!
 
 &nbsp;
 
@@ -19,6 +12,10 @@
 ---
 
 ### Personal Projects
+## Honest AI
+- Blog and newsletter group breaking down AI concepts and interesting advances.  
+- [Sign up!](https://honest-ai.com)
+
 ## Caesar
 - A system for characterizing and highlighting asymmetric risk opportunites on derivatives. High leverage trading. (long-term project)
 
@@ -31,7 +28,6 @@
 
 &nbsp;
 
-### Contributor to...
 ## Golden Protocol
 - Building a system to incentivize the aggregation and validation of human knowledge.
 - [Website](https://golden.xyz)
