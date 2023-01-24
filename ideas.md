@@ -12,7 +12,7 @@
     - Increase early focus on what matters
     - Increase founder/investor alignment on expected outcomes
 3.  ### Systems to generate large-scale general intelligence datasets
-4.  ### Tools to help founders calculate the ‘correct’ amount of capital they should rasie relative to exit potential and timeframe
+4.  ### Tools to help founders calculate the ‘correct’ amount of capital they should raise relative to exit potential and timeframe
 5.  ### fMRI brain image reconstruction.
     - Train multi-modal AI to 'hallucinate' images from brain data []()
     - Work to advance legal issues this will create
