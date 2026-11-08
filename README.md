@@ -1,6 +1,7 @@
 ## Hey I am Tyler. 
-I work on AI, knowledge, and prediction systems.
+I work on AI, knowledge, and prediction systems. 
+Co-Founder at [Ultrametric](https://ultrametric.ai) (YC P26)
 
-[Website](https://lastovich.com)
+[Personal website](https://lastovich.com)
 
 
